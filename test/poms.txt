@@ -1,0 +1,4 @@
+http://anonsvn.jboss.org/repos/jbossas/tags/JBPAPP_5_0_0_CR1/component-matrix/pom.xml
+http://anonsvn.jboss.org/repos/jbossas/tags/JBPAPP_5_0_0_GA/component-matrix/pom.xml
+http://anonsvn.jboss.org/repos/jbossas/tags/JBPAPP_5_0_1_GA/component-matrix/pom.xml
+http://anonsvn.jboss.org/repos/jbossas/tags/JBPAPP_5_1_0_CR2/component-matrix/pom.xml
